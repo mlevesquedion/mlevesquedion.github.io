@@ -1,3 +1,3 @@
-# Hello world
-
-Test to see if pandoc converts Markdown links to HTML anchors : [link](_build/about.html)
+# My blog
+* [About](_build/about.html)
+* [Dictionaries_for_interviews](_build/dictionaries_for_interviews.html)
