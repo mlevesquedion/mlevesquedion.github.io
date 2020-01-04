@@ -32,6 +32,7 @@ If we consider small stones or large stones, respectively, we see that treatment
 <br>
 
 ---
+<br>
 
 As it turns out, *treament A was disproportionately evaluated on patients with large stones, and such patients are less likely to recover in general*:
 <br>
@@ -56,11 +57,12 @@ Another example explored by Nielsen concerns batting averages. Again, I find Nie
 <br>
 
 ---
+<br>
 
 This post was also inspired by an excellent visual [introduction to information theory](https://colah.github.io/posts/2015-09-Visual-Information/) on Cristopher Olah's blog.
 <br>
 
-[Here](http://augmentingcognition.com/ltm.html) is my favorite essay of Nielsen's (altough I have only read a handful).
+[Here](http://augmentingcognition.com/ltm.html) is my favorite essay of Nielsen's (although I have only read a handful).
 <br>
 
 [^1]: I am aware that Google Plus was shutdown on April 2, 2019.
